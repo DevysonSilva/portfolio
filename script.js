@@ -3,6 +3,13 @@
   // MENU
   const menuToggle = document.querySelector('.menu-toggle');
   const nav = document.querySelector('.nav');
+    const navLinks = document.querySelectorAll('.nav a'); // Seleciona todos os links do menu
+
+navLinks.forEach(link => {
+  link.addEventListener('click', () => {
+    nav.classList.remove('open'); // Fecha o menu ao clicar em um link
+  });
+});
 
   menuToggle.addEventListener('click', () => {
     nav.classList.toggle('open');
