@@ -24,7 +24,7 @@ Este portfólio foi desenvolvido com foco em performance, design responsivo e bo
 ## Como acessar
 
 Você pode visualizar meu portfólio publicado  
-[**aqui**](devysonsilva.versel.app)
+[**aqui**](devysonsilva.vercel.app)
 
 ## Contato
 
@@ -33,7 +33,7 @@ Caso deseje conversar sobre algum projeto ou oportunidade, entre em contato pelo
 
 ## Créditos
 
-Os ícones utilizados neste site são de autoria de diversos designers e estão referenciados na [página de créditos](devysonsilva.versel.app/creditos).
+Os ícones utilizados neste site são de autoria de diversos designers e estão referenciados na [página de créditos](devysonsilva.vercel.app/creditos).
 
 ---
 
