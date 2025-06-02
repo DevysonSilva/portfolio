@@ -46,9 +46,11 @@ body {
 }
 
 .logo {
-  font-size: 1.8rem;
+  max-width: 5rem;
+  height: auto;
   color: var(--primary);
   font-weight: bold;
+  
 }
 
 /* Menu padrão */
@@ -817,4 +819,10 @@ body {
   .social-icons {
     justify-content: center;
   }
+}
+
+.image-content{
+  max-width: 16rem;
+  height: auto;
+  padding-right: 1rem;
 }
