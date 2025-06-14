@@ -1,4 +1,4 @@
-  
+const shadow = true;
   document.addEventListener('DOMContentLoaded', () => {
   // MENU
   const menuToggle = document.querySelector('.menu-toggle');
