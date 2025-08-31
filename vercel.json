@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/creditos", "destination": "/html/creditos.html" }
-  ]
-}
